@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "movie.h": "c",
+        "tv_series.h": "c",
+        "ncurses.h": "c",
+        "ui.h": "c",
+        "popup.h": "c",
+        "stdio.h": "c"
+    }
+}
