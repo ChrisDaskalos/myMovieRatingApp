@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/myMovieRating.dir/src/main.c.o CMakeFiles/myMovieRating.dir/src/movie.c.o CMakeFiles/myMovieRating.dir/src/tv_series.c.o CMakeFiles/myMovieRating.dir/src/ui.c.o CMakeFiles/myMovieRating.dir/src/popup.c.o -o myMovieRating  -lcurses /usr/lib/x86_64-linux-gnu/libform.so 
