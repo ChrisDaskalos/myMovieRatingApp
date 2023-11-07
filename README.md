@@ -1,5 +1,5 @@
 # myMovieRating
-![Screenshot of myMovieRating](images/myMovieRating_screenshot.png "Main Interface")
+![Screenshot of myMovieRating](image.png "Main Interface")
 ## Overview
 `myMovieRating` is a C application designed to manage and rate your personal movie collection. It provides a text-based user interface to add, view, rate, and delete movies from your personal database.
 
