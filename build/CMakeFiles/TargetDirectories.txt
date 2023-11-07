@@ -1,3 +1,0 @@
-/home/chris/cpp_projects/myMovieRating/build/CMakeFiles/myMovieRating.dir
-/home/chris/cpp_projects/myMovieRating/build/CMakeFiles/edit_cache.dir
-/home/chris/cpp_projects/myMovieRating/build/CMakeFiles/rebuild_cache.dir
