@@ -12,6 +12,16 @@
 - Delete movies from your collection.
 - Data persistence between sessions.
 
+## TODO
+- [ ] Improve the overall aesthetic of the UI
+- [ ] Implement the TVSeries functionality
+- [ ] Better manage the popups
+- [ ] Improve buffering issues
+- [ ] Fix terminal bug after exit
+- [ ] Check for segfaults when re/de/allocating structures
+- [ ] Improve and/or encrypt movies list?
+- [ ] Add Users?
+
 ## Installation
 
 ### Prerequisites
@@ -62,5 +72,6 @@ This will create a myMovieRating executable within the build directory.
 
 ## Contributions
 myMovieRating is an open-source project and welcomes contributions. If you have suggestions or improvements, please fork the repository and submit a pull request with your changes.
+
 
 
